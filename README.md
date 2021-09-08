@@ -1,4 +1,4 @@
-# M-AI-Classification
+# Classification of Pokemon data
 
 Work developed for the Artificial Intelligence class. It consists of an analysis of Pokémon data.
 
